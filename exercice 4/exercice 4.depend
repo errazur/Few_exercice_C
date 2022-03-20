@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1618837603 source:c:\users\errazur\documents\workspace\exercice 4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
